@@ -38,6 +38,14 @@
 				<key>Path</key>
 				<string>SSDT-PLUG.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PLUG-DRTNIA.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array/>
@@ -1031,7 +1039,7 @@
 			<key>DirectGopRendering</key>
 			<false/>
 			<key>ForceResolution</key>
-			<false/>
+			<true/>
 			<key>GopBurstMode</key>
 			<false/>
 			<key>GopPassThrough</key>
